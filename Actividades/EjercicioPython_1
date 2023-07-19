@@ -1,0 +1,11 @@
+# A1: Ejercicios en Python
+# Nombre: Silvia NavarrO Ruiz
+# Matricula: 1945897
+# Hora Clase: N4
+
+X1= int(input("Ingresa el primer número: "))
+X2 = int(input("Ingresa el segundo número: "))
+
+Y= X1+X2
+
+print("La respuesta es: ",Y)
